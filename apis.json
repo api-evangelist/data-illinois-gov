@@ -1,0 +1,57 @@
+{
+    "name": "Data.Illinois.Gov",
+    "description": "The State of Illinois Home Page is a portal with links to other websites. These include links to web sites operated by Illinois agencies and officials, other government agencies, nonprofit organizations and private businesses.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/illiois-gov-logo.png",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api",
+        "illinois",
+        "illinois government data",
+        "profile",
+        "state government"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/data-illinois-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Data.Illinois.Gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/illiois-gov-logo.png",
+            "humanURL": "https:\/\/illinois.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/data-illinois-gov-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/data.illinois.gov\/resources\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/illinois-dceo"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/data.illinois.gov\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GovRauner"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/illinois.gov\/"
+        }
+    ]
+}
